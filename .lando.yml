@@ -1,0 +1,6 @@
+name: demo-tag1-drupal
+recipe: lagoon
+config:
+  flavor: drupal
+  build:
+    - composer install
