@@ -1,6 +1,6 @@
 docker-compose-yaml: docker-compose.yml
 
-project: glc-amazee-sandbox
+project: demo-tag1-drupal
 
 tasks:
 #   pre-rollout:
